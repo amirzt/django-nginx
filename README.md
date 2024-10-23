@@ -12,3 +12,8 @@ using nginx and gunicorn<br />
     sudo apt upgrade
 ##
     sudo apt install python3-venv python3-dev libpq-dev nginx curl
+<br />
+make working directory
+##
+    mkdir api
+    cd api
