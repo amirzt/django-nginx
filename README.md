@@ -6,8 +6,8 @@ vps : ubunto<br />
 using nginx and gunicorn<br />
 
 # set up ubunto
-##
-sudo apt update
+###### 
+    sudo apt update
 ##
 ``` sudo apt upgrade ``` <br />
 ##
