@@ -1,5 +1,5 @@
 # nginx
-this is a simple step by step guide to deploy a django restframework api on an ubunto vps using nginx and gunicorn without to much explanation and just the steps<br />
+this is a simple step by step guide to deploy a django restframework api on an ubunto vps using nginx and gunicorn without too much explanation and just the steps<br />
 back-end : django rest framework<br />
 database : mysql<br />
 vps : ubunto<br />
@@ -90,6 +90,7 @@ run and test
 ```
 python manage.py collectstatic
 python manage.py makemigrations
+python manage.py migrate
 python manage.py runserver 0.0.0.0:8000
 ```
 
