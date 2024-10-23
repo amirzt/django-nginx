@@ -12,7 +12,6 @@ using nginx and gunicorn<br />
     sudo apt upgrade
 ##
     sudo apt install python3-venv python3-dev libpq-dev nginx curl
-make working directory <br />
 
 
 # setup MySQL
@@ -36,7 +35,7 @@ login to mysql and create the tables <br />
 
 
 # setup virtual env
-
+make working directory <br />
 ##
     mkdir api
 ##
