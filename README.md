@@ -16,3 +16,10 @@ make working directory <br />
 
 ##
     mkdir api
+##
+    cd api
+
+# setup virtual env
+
+##
+    python3 -m venv myprojectenv
