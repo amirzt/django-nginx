@@ -6,6 +6,6 @@ vps : ubunto
 using nginx and gunicorn
 
 # set up ubunto
-``` sudo apt update ```
-``` sudo apt upgrade ```
-``` sudo apt install python3-venv python3-dev libpq-dev nginx curl ```
+``` sudo apt update ``` <br />
+``` sudo apt upgrade ``` <br />
+``` sudo apt install python3-venv python3-dev libpq-dev nginx curl ``` <br />
