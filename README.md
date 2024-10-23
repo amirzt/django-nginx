@@ -13,7 +13,7 @@ using nginx and gunicorn<br />
 ##
     sudo apt install python3-venv python3-dev libpq-dev nginx curl
 <br />
-make working directory
+make working directory <br />
 ##
     mkdir api
     cd api
