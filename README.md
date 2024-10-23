@@ -16,4 +16,3 @@ using nginx and gunicorn<br />
 make working directory <br />
 ##
     mkdir api
-    cd api
