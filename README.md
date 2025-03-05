@@ -11,7 +11,7 @@ using nginx and gunicorn<br />
 ##
     sudo apt upgrade
 ##
-    sudo apt install python3-venv python3-dev libpq-dev nginx curl
+    sudo apt install python3-venv python3-dev libpq-dev nginx curl default-libmysqlclient-dev build-essential pkg-config
 
 
 # setup MySQL
@@ -46,7 +46,7 @@ make working directory <br />
 ##
     source myprojectenv/bin/activate
 ##
-    pip install django gunicorn psycopg2-binary djangorestframework markdown django-filter pillow requests
+    pip install django gunicorn psycopg2-binary djangorestframework markdown django-filter pillow requests mysqlclient
 ##
     mkdir api
 ##
